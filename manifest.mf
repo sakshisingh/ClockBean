@@ -1,0 +1,15 @@
+/*
+**************************************************************
+Name: Sakshi Singh
+SCU ID: W1041542
+Course: COEN235
+Assignment: #1 JavaBeans --> Clock Bean
+Date of Submission: 10/08/2013
+Current File: manifest.mf
+**************************************************************
+*/
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+Name: HTPJB/Clock/Clock.class
+Java-Bean: True
+

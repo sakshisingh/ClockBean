@@ -1,13 +1,3 @@
-/*
-**************************************************************
-Name: Sakshi Singh
-SCU ID: W1041542
-Course: COEN235
-Assignment: #1 JavaBeans --> Clock Bean
-Date of Submission: 10/08/2013
-Current File: Clock.java
-**************************************************************
-*/
 
 // Clock Bean Class
 // Clock.java
